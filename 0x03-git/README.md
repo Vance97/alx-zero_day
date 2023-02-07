@@ -29,7 +29,7 @@
 
 ## About
 
-The files in this repository constitute a project in progress and as such, you are not allowed to contribute without the consent of the author. You may, however, fork, clone or download a copy of it and test it separately. Use the following commands to get started:
+The files in this repository constitute a project in progress and as such, you will be unable to contribute without permission of the author. You may, however, fork, clone or download a copy of it and test it separately. Use the following commands to get started:
 
 ```bash
 
